@@ -12,6 +12,7 @@
 
         <module>zoomify-cut</module>
         <module>sql-export</module>
+        <module>elastic-simu</module>
     </modules>
     <packaging>pom</packaging>
     <name>spectre</name>
